@@ -5,7 +5,11 @@ html {
 body {
   margin: 0;
   min-width: 320px;
+<<<<<<< HEAD
   background: #071317;
+=======
+  background: #0f172a;
+>>>>>>> 9366c6f127f79134811cb526d4b275f8945ec324
   color: #cbd5e1;
   font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
